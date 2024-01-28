@@ -8,17 +8,21 @@ body {
 h2 {
   font-size: 18px;
   line-height: 1.4;
+  margin-bottom: 0;
 }
 
 h3 {
   font-size: 15px;
   line-height: 1.2;
   font-weight: normal;
+  margin-bottom: 0;
 }
 
 p {
   font-size: 13px;
-  line-height: 1.2;
+  line-height: 1.4;
+  padding: 0;
+  margin: 10px;
 }
 
 header {
@@ -27,6 +31,8 @@ header {
 }
 
 header h1 {
+  line-height: 1.2;
+  margin: 0;
   text-align: center;
 }
 
@@ -68,6 +74,10 @@ header h1 {
 
 .gakunen3 .sita {
   position: absolute;
-  bottom: 0px;
+  bottom: 10px;
   right: 0;
+}
+
+a:hover {
+  cursor: pointer;
 }
