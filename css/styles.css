@@ -1,0 +1,67 @@
+body {
+  margin: 0 auto;
+  width: 729px;
+  height: 1032px;
+  border: solid 1px white;
+}
+
+h2 {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+h3 {
+  font-size: 15px;
+  line-height: 1.2;
+  font-weight: normal;
+}
+
+p {
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+header {
+  width: 700px;
+  height: auto;
+}
+
+header h1 {
+  text-align: center;
+}
+
+.gakunen1 {
+  width: 700px;
+  height: 300px;
+  position: relative;
+}
+
+.gakunen1 img {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.gakunen2 {
+  width: 700px;
+  height: 300px;
+  position: relative;
+}
+
+.gakunen2 img {
+  position: absolute;
+  top: -80px;
+  right: 0;
+}
+
+.gakunen3 {
+  width: 700px;
+  height: 300px;
+  position: relative;
+}
+
+.gakunen3 img {
+  position: absolute;
+  top: 0px;
+  right: 0;
+}
