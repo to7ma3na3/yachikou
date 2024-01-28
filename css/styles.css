@@ -60,8 +60,14 @@ header h1 {
   position: relative;
 }
 
-.gakunen3 img {
+.gakunen3 .ue {
   position: absolute;
   top: 0px;
+  right: 0;
+}
+
+.gakunen3 .sita {
+  position: absolute;
+  bottom: 0px;
   right: 0;
 }
